@@ -1,0 +1,11 @@
+C:\Users\denis\source\repos\SecondHand\Repositorio\bin\Debug\netstandard2.0\Repositorio.deps.json
+C:\Users\denis\source\repos\SecondHand\Repositorio\bin\Debug\netstandard2.0\Repositorio.dll
+C:\Users\denis\source\repos\SecondHand\Repositorio\bin\Debug\netstandard2.0\Repositorio.pdb
+C:\Users\denis\source\repos\SecondHand\Repositorio\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\denis\source\repos\SecondHand\Repositorio\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\denis\source\repos\SecondHand\Repositorio\obj\Debug\netstandard2.0\Repositorio.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\SecondHand\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\SecondHand\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfo.cs
+C:\Users\denis\source\repos\SecondHand\Repositorio\obj\Debug\netstandard2.0\Repositorio.csproj.CopyComplete
+C:\Users\denis\source\repos\SecondHand\Repositorio\obj\Debug\netstandard2.0\Repositorio.dll
+C:\Users\denis\source\repos\SecondHand\Repositorio\obj\Debug\netstandard2.0\Repositorio.pdb

@@ -1,0 +1,12 @@
+C:\Users\denis\source\repos\SecondHand\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+C:\Users\denis\source\repos\SecondHand\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\denis\source\repos\SecondHand\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\SecondHand\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+C:\Users\denis\source\repos\SecondHand\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\SecondHand\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\SecondHand\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\denis\source\repos\SecondHand\Persistencia\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\denis\source\repos\SecondHand\Persistencia\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\denis\source\repos\SecondHand\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+C:\Users\denis\source\repos\SecondHand\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+C:\Users\denis\source\repos\SecondHand\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
