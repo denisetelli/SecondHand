@@ -7,3 +7,11 @@ C:\Users\denis\source\repos\SecondHand\Entidades\obj\Debug\netstandard2.0\Entida
 C:\Users\denis\source\repos\SecondHand\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
 C:\Users\denis\source\repos\SecondHand\Entidades\obj\Debug\netstandard2.0\Entidades.dll
 C:\Users\denis\source\repos\SecondHand\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+C:\Users\denis\source\repos\t2_psa\SecondHand\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\denis\source\repos\t2_psa\SecondHand\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\denis\source\repos\t2_psa\SecondHand\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\denis\source\repos\t2_psa\SecondHand\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\t2_psa\SecondHand\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\t2_psa\SecondHand\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\denis\source\repos\t2_psa\SecondHand\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\denis\source\repos\t2_psa\SecondHand\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VDYRt4QKjkNADwKsosoNyB2cqEz0bGXNsLjtTa6x1Bwgz8hv+kcaIBVbezgAPTqbg7QH0UUigIQ1u/04q5mULQ==",
+  "dgSpecHash": "2WO5AQgBSI0FST4BYQk0co+TK/qH2u+RLvNP46IcQFQaZkAFbgVeZkejeobxmFUqbq9HyAB0ZTif+3zWbGuSuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\denis\\source\\repos\\SecondHand\\SecondHandProject\\SecondHandProject.csproj",
+  "projectFilePath": "C:\\Users\\denis\\source\\repos\\t2_psa\\SecondHand\\SecondHandProject\\SecondHandProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
