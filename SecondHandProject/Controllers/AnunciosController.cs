@@ -32,7 +32,7 @@ namespace SecondHandProject
             {
                 Id = rng.Next(100),
                 Titulo = "TV",
-                Anunciante = new Usuario { Id = 0, Login = "denise" },
+                Anunciante = new Usuario { Id = rng.Next(100), Login = "denise" },
                 Categoria = new Categoria
                 {
                     Id = 0,

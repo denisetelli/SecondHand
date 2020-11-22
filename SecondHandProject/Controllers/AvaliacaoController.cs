@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Repositorio.Crud.Interfaces;
@@ -15,7 +17,19 @@ namespace SecondHandProject
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Avaliacao>>> Get()
         {
-            return await _repositorioAvaliacao.List();
+            //return await _repositorioAvaliacao.List();
+            var rng = new Random();
+            return Enumerable.Range(1, 5).Select(index => new Avaliacao
+            {
+                Id = rng.Next(100),
+                Avaliador = {
+                    Id = 1,
+                    Perguntas = {new Pergunta{IdAnuncio =3, DataInclusao= DateTime.Now.AddDays(index), } } ,
+                    Nota = 10
+                    },
+                Nota = 10,
+                Comentario = "entrega rápida"
+            }).ToArray();
         }
 
         [HttpGet("{id}")]
